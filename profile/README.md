@@ -1,4 +1,4 @@
-# Various Shiny Applications
+# Various GitHub Actions
 
 Welcome to [@coatless](https://github.com/coatless) and contributors' collection of [GitHub Actions](https://docs.github.com/en/actions)!
 
